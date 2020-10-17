@@ -62,7 +62,8 @@ namespace ExamenComponentes1
             if (textBox4.TextLength> 4)
             {
                 textBox5.Text = "Digite solo 4 letras";
-            }else if(textBox4.TextLength < 4)
+            }
+            else if(textBox4.TextLength <4 || textBox4.TextLength < 0)
             {
                 textBox5.Text = "Digite  4 letras";
             }

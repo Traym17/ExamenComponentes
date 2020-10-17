@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\ExamenComponentes1\ExamenComponentes1\bin\Debug\ExamenComponentes1.dll
+C:\Users\Lenovo\source\repos\ExamenComponentes1\ExamenComponentes1\bin\Debug\ExamenComponentes1.pdb
+C:\Users\Lenovo\source\repos\ExamenComponentes1\ExamenComponentes1\obj\Debug\ExamenComponentes1.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ExamenComponentes1\ExamenComponentes1\obj\Debug\ExamenComponentes1.UserControl1.resources
+C:\Users\Lenovo\source\repos\ExamenComponentes1\ExamenComponentes1\obj\Debug\ExamenComponentes1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ExamenComponentes1\ExamenComponentes1\obj\Debug\ExamenComponentes1.dll
+C:\Users\Lenovo\source\repos\ExamenComponentes1\ExamenComponentes1\obj\Debug\ExamenComponentes1.pdb

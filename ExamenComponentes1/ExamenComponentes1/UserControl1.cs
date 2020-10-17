@@ -116,6 +116,7 @@ namespace ExamenComponentes1
             label25.Text = " ";
             label24.Text = " ";
             textBox4.Text = " ";
+            textBox5.Text = " ";
             textBox6.Text = codigoRandom[0] + " " + codigoRandom[1]
                 + " " + codigoRandom[2] + " " + codigoRandom[3];
             label26.Text = mensaje;
